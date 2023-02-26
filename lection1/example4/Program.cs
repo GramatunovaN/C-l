@@ -1,0 +1,5 @@
+﻿double numberA = 13;
+double numberB = 8;
+double result = numberA/numberB;
+Console.WriteLine(result);
+
